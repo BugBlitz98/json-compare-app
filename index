@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>JSON Compare – Diff & Viewer</title>
+<meta name="description" content="Compare two JSON files, detect differences, and visualize JSON structure with graphical view.">
+
+<style>
+
+body{
+font-family: Arial, sans-serif;
+margin:0;
+background:#f5f6fa;
+color:#333;
+text-align:center;
+}
+
+header{
+background:#1e2a78;
+color:white;
+padding:60px 20px;
+}
+
+h1{
+margin:0;
+font-size:40px;
+}
+
+p{
+font-size:18px;
+max-width:700px;
+margin:auto;
+}
+
+.container{
+padding:40px 20px;
+max-width:900px;
+margin:auto;
+}
+
+.feature{
+margin-bottom:30px;
+}
+
+footer{
+background:#111;
+color:#aaa;
+padding:20px;
+margin-top:40px;
+}
+
+footer a{
+color:#fff;
+text-decoration:none;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>JSON Compare – Diff & Viewer</h1>
+<p>Compare two JSON files, detect differences, and visualize JSON data with graph view.</p>
+</header>
+
+<div class="container">
+
+<h2>Features</h2>
+
+<div class="feature">
+<h3>JSON Compare</h3>
+<p>Compare two JSON objects or files and instantly detect differences.</p>
+</div>
+
+<div class="feature">
+<h3>Graphical Compare View</h3>
+<p>Visualize JSON structure as connected nodes to easily understand complex data relationships.</p>
+</div>
+
+<div class="feature">
+<h3>JSON Editor</h3>
+<p>Paste, edit, or upload JSON files directly inside the app.</p>
+</div>
+
+<div class="feature">
+<h3>Fast & Lightweight</h3>
+<p>Built for developers to quickly inspect and analyze JSON data on mobile.</p>
+</div>
+
+</div>
+
+<footer>
+<p>
+© 2026 JSON Compare – Diff & Viewer  
+<br>
+<a href="privacy.html">Privacy Policy</a>
+</p>
+</footer>
+
+</body>
+</html>
